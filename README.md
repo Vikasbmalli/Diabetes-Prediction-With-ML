@@ -2,6 +2,14 @@
 
 A full-stack machine learning application built with Python, Scikit-learn, FastAPI, and React to predict the diabetes target class from health-related input measurements.
 
+## 🎬 Project Execution Demo
+
+Watch the Diabetes Prediction System running:
+
+[▶ Watch the Full Project Demo](https://drive.google.com/file/d/1N7oQYnTNJWPzm-LQc8r2c_Mpd1Dfd1Dx/view?usp=drivesdk)
+
+The demonstration showcases the application dashboard, patient input form, machine learning prediction, and available features.
+
 ## 📌 Project Overview
 
 This project demonstrates the integration of a machine learning classification model with a web application. Users submit health-related measurements through an interactive frontend, and a FastAPI backend returns the prediction produced by a saved Logistic Regression model.
